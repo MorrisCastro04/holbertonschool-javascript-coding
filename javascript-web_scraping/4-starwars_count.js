@@ -19,5 +19,5 @@ request(url, (error, response, body) => {
     });
   });
 
-  console.log(films);
+  console.log(count);
 });
